@@ -5,7 +5,7 @@ I'm fed up with always having to struggle unnecessarily when I have to use Selen
 
 0) Download SeleniumManager.py
 
-1) Download the correct firefox geckodriver here: [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
+1) Download and put with SeleniumManager.py the correct firefox geckodriver here: [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
 
 2) Install Selenium using, for example:
 ```bash
