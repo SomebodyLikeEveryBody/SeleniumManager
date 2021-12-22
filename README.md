@@ -12,7 +12,7 @@ I'm fed up with always having to struggle unnecessarily when I have to use Selen
 python -m pip install selenium
 ```
 
-3) Launch Python in the repertory containing SeleniumManager.py and the other files of the repository
+3) Launch Python in the repertory containing SeleniumManager.py and the geckodriver
 
 4) Import Selenium Manager by doing in the python console
 ```python
